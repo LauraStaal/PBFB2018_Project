@@ -1,0 +1,12 @@
+PASS	Basic Statistics	Dm_58_GCCAAT_L003_R1_001.fastq	PASS	Basic Statistics	Dm_58_GCCAAT_L003_R2_001.fastq
+PASS	Per base sequence quality	Dm_58_GCCAAT_L003_R1_001.fastq	PASS	Per base sequence quality	Dm_58_GCCAAT_L003_R2_001.fastq
+WARN	Per tile sequence quality	Dm_58_GCCAAT_L003_R1_001.fastq	WARN	Per tile sequence quality	Dm_58_GCCAAT_L003_R2_001.fastq
+PASS	Per sequence quality scores	Dm_58_GCCAAT_L003_R1_001.fastq	PASS	Per sequence quality scores	Dm_58_GCCAAT_L003_R2_001.fastq
+FAIL	Per base sequence content	Dm_58_GCCAAT_L003_R1_001.fastq	FAIL	Per base sequence content	Dm_58_GCCAAT_L003_R2_001.fastq
+FAIL	Per sequence GC content	Dm_58_GCCAAT_L003_R1_001.fastq	FAIL	Per sequence GC content	Dm_58_GCCAAT_L003_R2_001.fastq
+PASS	Per base N content	Dm_58_GCCAAT_L003_R1_001.fastq	PASS	Per base N content	Dm_58_GCCAAT_L003_R2_001.fastq
+PASS	Sequence Length Distribution	Dm_58_GCCAAT_L003_R1_001.fastq	PASS	Sequence Length Distribution	Dm_58_GCCAAT_L003_R2_001.fastq
+FAIL	Sequence Duplication Levels	Dm_58_GCCAAT_L003_R1_001.fastq	FAIL	Sequence Duplication Levels	Dm_58_GCCAAT_L003_R2_001.fastq
+WARN	Overrepresented sequences	Dm_58_GCCAAT_L003_R1_001.fastq	WARN	Overrepresented sequences	Dm_58_GCCAAT_L003_R2_001.fastq
+PASS	Adapter Content	Dm_58_GCCAAT_L003_R1_001.fastq	PASS	Adapter Content	Dm_58_GCCAAT_L003_R2_001.fastq
+FAIL	Kmer Content	Dm_58_GCCAAT_L003_R1_001.fastq	FAIL	Kmer Content	Dm_58_GCCAAT_L003_R2_001.fastq

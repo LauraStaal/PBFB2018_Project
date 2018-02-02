@@ -1,0 +1,12 @@
+Basic Statistics	PASS	PASS
+Per base sequence quality	PASS	PASS
+Per tile sequence quality	WARN	WARN
+Per sequence quality scores	PASS	PASS
+Per base sequence content	FAIL	FAIL
+Per sequence GC content	FAIL	FAIL
+Per base N content	PASS	PASS
+Sequence Length Distribution	PASS	PASS
+Sequence Duplication Levels	FAIL	FAIL
+Overrepresented sequences	WARN	WARN
+Adapter Content	PASS	PASS
+Kmer Content	FAIL	FAIL
